@@ -80,3 +80,6 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./goshencoin-qt_test
 
+Official thread bitcointalk
+
+https://bitcointalk.org/index.php?topic=1818408
