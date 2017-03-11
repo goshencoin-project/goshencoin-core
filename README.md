@@ -1,8 +1,3 @@
-================================================================
-              Goshencoin integration/staging tree
-================================================================
-
-
 http://www.goshencoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
@@ -23,6 +18,10 @@ GoshenCoin is borne out of the desire to improve the quality of life to all. The
 GoshenCoin cut out a class of its own with its delivery of innovative and excellent services. An infrastructure that facilitates long distance based transactions, at little or no cost, and easy conversion between virtual and fiat currencies. GoshenCoin is arguably the best cryptocurrency for remittances. Xcellence is built into the DNA of GoshenCoin.
 
 At a time when everyone seeks a credible class that can guarantee steady and consistent returns, GoshenCoin steps in to fill the void. It is no more news that lots of investments made in conventional instruments do not turn out right, considering the persistent fall in value of regular currencies. With our well designed Price Stability Mechanism, you’re rest assured that GoshenCoin in your wallet today will be more valuable in the future. GoshenCoin is a store of value, and will continually appreciate in value as we witness greater adoption by by merchants, investors, and users. GoshenCoin is more than a coin, it is an Asset Class. Join us as we create value, great user experience, and Prosperity for all.
+
+================================================================
+              Goshencoin integration/staging tree
+================================================================
 
 Goshencoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 1 minute block targets
