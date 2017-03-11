@@ -1,15 +1,3 @@
-Goshen Project is a global initiative with the goal of adding value in unique ways, to all stakeholders. The GoshenCoin is a product of this initiative, and it is a decentralized peer-to-peer exchange system for communicating value among users. It is promoted by Eugene Nwoji, while Bitfawkes is the head of the development team.
-
-The Goshen Project stands for Greater Good, Xcellence, and Prosperity (GXP)
-
-Benefits
-
-GoshenCoin is borne out of the desire to improve the quality of life to all. The Goshen Project, aside of its profit making activities, will strive to improve the lives of the less priviledged. By giving to different causes, direct involvement in empowerment of those who lack the basic means to provide for themselves. The collective Greater Good for all is paramount.
-
-GoshenCoin cut out a class of its own with its delivery of innovative and excellent services. An infrastructure that facilitates long distance based transactions, at little or no cost, and easy conversion between virtual and fiat currencies. GoshenCoin is arguably the best cryptocurrency for remittances. Xcellence is built into the DNA of GoshenCoin.
-
-At a time when everyone seeks a credible class that can guarantee steady and consistent returns, GoshenCoin steps in to fill the void. It is no more news that lots of investments made in conventional instruments do not turn out right, considering the persistent fall in value of regular currencies. With our well designed Price Stability Mechanism, you’re rest assured that GoshenCoin in your wallet today will be more valuable in the future. GoshenCoin is a store of value, and will continually appreciate in value as we witness greater adoption by by merchants, investors, and users. GoshenCoin is more than a coin, it is an Asset Class. Join us as we create value, great user experience, and Prosperity for all.
-
 ================================================================
               Goshencoin integration/staging tree
 ================================================================
@@ -23,6 +11,18 @@ Copyright (c) 2017 Goshencoin Developers
 
 What is Goshencoin?
 ----------------
+
+Goshen Project is a global initiative with the goal of adding value in unique ways, to all stakeholders. The GoshenCoin is a product of this initiative, and it is a decentralized peer-to-peer exchange system for communicating value among users. It is promoted by Eugene Nwoji, while Bitfawkes is the head of the development team.
+
+The Goshen Project stands for Greater Good, Xcellence, and Prosperity (GXP)
+
+Benefits
+
+GoshenCoin is borne out of the desire to improve the quality of life to all. The Goshen Project, aside of its profit making activities, will strive to improve the lives of the less priviledged. By giving to different causes, direct involvement in empowerment of those who lack the basic means to provide for themselves. The collective Greater Good for all is paramount.
+
+GoshenCoin cut out a class of its own with its delivery of innovative and excellent services. An infrastructure that facilitates long distance based transactions, at little or no cost, and easy conversion between virtual and fiat currencies. GoshenCoin is arguably the best cryptocurrency for remittances. Xcellence is built into the DNA of GoshenCoin.
+
+At a time when everyone seeks a credible class that can guarantee steady and consistent returns, GoshenCoin steps in to fill the void. It is no more news that lots of investments made in conventional instruments do not turn out right, considering the persistent fall in value of regular currencies. With our well designed Price Stability Mechanism, you’re rest assured that GoshenCoin in your wallet today will be more valuable in the future. GoshenCoin is a store of value, and will continually appreciate in value as we witness greater adoption by by merchants, investors, and users. GoshenCoin is more than a coin, it is an Asset Class. Join us as we create value, great user experience, and Prosperity for all.
 
 Goshencoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 1 minute block targets
