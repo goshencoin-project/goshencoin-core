@@ -1,5 +1,3 @@
-What is Goshencoin?
-
 Goshen Project is a global initiative with the goal of adding value in unique ways, to all stakeholders. The GoshenCoin is a product of this initiative, and it is a decentralized peer-to-peer exchange system for communicating value among users. It is promoted by Eugene Nwoji, while Bitfawkes is the head of the development team.
 
 The Goshen Project stands for Greater Good, Xcellence, and Prosperity (GXP)
